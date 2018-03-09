@@ -6,7 +6,7 @@ Obviously that's a matter of taste, but I figure it would probably be interestin
 a look at all of them.
 
 
-chronosphere.gr <br>
+<a href="http://chronosphere.gr" target="_blank">chronosphere.gr</a> <br>
 greekgrandprix.com <br>
 buxlead.net <br>
 parkspace.tech <br>
