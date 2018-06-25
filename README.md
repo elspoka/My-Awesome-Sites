@@ -8,7 +8,7 @@ a look at all of them.
 <a href="https://buxlead.net " target="_blank">buxlead.net </a> <br>
 <a href="http://chronosphere.gr" target="_blank">chronosphere.gr</a> <br>
 <a href="http://greekgrandprix.com " target="_blank">greekgrandprix.com </a> <br>
-<a href="https://elspoka.github.io/genderization " target="_blank">genderization.io </a> <br>
+<a href="https://elspoka.github.io/genderization/" target="_blank">genderization.io </a> <br>
 <a href="http://parkspace.tech" target="_blank">parkspace.tech</a> <br>
 <a href="http://elephory.com" target="_blank">elephory.com</a> <br>
 <a href="http://meteotrikala.gr" target="_blank">meteotrikala.gr</a> <br>
